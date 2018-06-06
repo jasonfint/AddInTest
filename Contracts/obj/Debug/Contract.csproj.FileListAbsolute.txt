@@ -1,0 +1,25 @@
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\Contracts\Contract.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\Contracts\Contract.pdb
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Contracts\obj\Debug\Contract.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Contracts\obj\Debug\Contract.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\Contracts\Contract.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\Contracts\Contract.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Contracts\obj\Debug\Contract.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Contracts\obj\Debug\Contract.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\Contracts\Contract.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\Contracts\Contract.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Contracts\obj\Debug\Contract.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Contracts\obj\Debug\Contract.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\Contracts\Contract.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\Contracts\Contract.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Contracts\obj\Debug\Contract.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Contracts\obj\Debug\Contract.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\Contracts\Contract.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\Contracts\Contract.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\Contracts\obj\Debug\Contract.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Contracts\obj\Debug\Contract.pdb

@@ -1,0 +1,30 @@
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\HostView.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\HostView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostView\obj\Debug\HostView.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostView\obj\Debug\HostView.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\HostView.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\HostView.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostView\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostView\obj\Debug\HostView.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostView\obj\Debug\HostView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\HostView.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\HostView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostView\obj\Debug\HostView.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostView\obj\Debug\HostView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\HostView.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\HostView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostView\obj\Debug\HostView.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostView\obj\Debug\HostView.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\HostView.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\HostView.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostView\obj\Debug\HostView.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostView\obj\Debug\HostView.pdb
+D:\WPF学习\AddInTest\Output\HostView.dll
+D:\WPF学习\AddInTest\Output\HostView.pdb
+D:\WPF学习\AddInTest\HostView\obj\Debug\HostView.csproj.CoreCompileInputs.cache
+D:\WPF学习\AddInTest\HostView\obj\Debug\HostView.dll
+D:\WPF学习\AddInTest\HostView\obj\Debug\HostView.pdb

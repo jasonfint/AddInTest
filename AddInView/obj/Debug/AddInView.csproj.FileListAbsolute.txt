@@ -1,0 +1,25 @@
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\AddInViews\AddInView.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\AddInViews\AddInView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\AddInView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\AddInView\obj\Debug\AddInView.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\AddInView\obj\Debug\AddInView.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\AddInViews\AddInView.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\AddInViews\AddInView.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\AddInView\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\AddInView\obj\Debug\AddInView.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\AddInView\obj\Debug\AddInView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddInViews\AddInView.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddInViews\AddInView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\AddInView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\AddInView\obj\Debug\AddInView.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\AddInView\obj\Debug\AddInView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddInViews\AddInView.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddInViews\AddInView.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInView\obj\Debug\AddInView.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInView\obj\Debug\AddInView.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddInViews\AddInView.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddInViews\AddInView.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\AddInView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\AddInView\obj\Debug\AddInView.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\AddInView\obj\Debug\AddInView.pdb

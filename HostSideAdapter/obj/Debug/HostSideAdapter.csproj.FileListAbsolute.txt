@@ -1,0 +1,25 @@
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\HostSideAdapters\HostSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\HostSideAdapters\HostSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostSideAdapter\obj\Debug\HostSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostSideAdapter\obj\Debug\HostSideAdapter.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\HostSideAdapters\HostSideAdapter.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\HostSideAdapters\HostSideAdapter.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostSideAdapter\obj\Debug\HostSideAdapter.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostSideAdapter\obj\Debug\HostSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\HostSideAdapters\HostSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\HostSideAdapters\HostSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostSideAdapter\obj\Debug\HostSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostSideAdapter\obj\Debug\HostSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\HostSideAdapters\HostSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\HostSideAdapters\HostSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostSideAdapter\obj\Debug\HostSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostSideAdapter\obj\Debug\HostSideAdapter.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\HostSideAdapters\HostSideAdapter.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\HostSideAdapters\HostSideAdapter.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostSideAdapter\obj\Debug\HostSideAdapter.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostSideAdapter\obj\Debug\HostSideAdapter.pdb

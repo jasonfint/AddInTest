@@ -1,0 +1,25 @@
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\AddInSideAdapters\AddInSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\AddInSideAdapters\AddInSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\AddInSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\AddInSideAdapter\obj\Debug\AddInSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\AddInSideAdapter\obj\Debug\AddInSideAdapter.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\AddInSideAdapters\AddInSideAdapter.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\AddInSideAdapters\AddInSideAdapter.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\AddInSideAdapter.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\AddInSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddInSideAdapters\AddInSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddInSideAdapters\AddInSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\AddInSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\AddInSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddInSideAdapters\AddInSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddInSideAdapters\AddInSideAdapter.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\AddInSideAdapter.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInSideAdapter\obj\Debug\AddInSideAdapter.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddInSideAdapters\AddInSideAdapter.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddInSideAdapters\AddInSideAdapter.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\AddInSideAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\AddInSideAdapter\obj\Debug\AddInSideAdapter.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\AddInSideAdapter\obj\Debug\AddInSideAdapter.pdb

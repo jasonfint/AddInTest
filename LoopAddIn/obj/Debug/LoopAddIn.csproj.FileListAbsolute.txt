@@ -1,0 +1,15 @@
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\LoopAddIn\LoopAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\LoopAddIn\LoopAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\LoopAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\LoopAddIn\obj\Debug\LoopAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\LoopAddIn\obj\Debug\LoopAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddIns\LoopAddIn\LoopAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddIns\LoopAddIn\LoopAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\LoopAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\LoopAddIn\obj\Debug\LoopAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\LoopAddIn\obj\Debug\LoopAddIn.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddIns\LoopAddIn\LoopAddIn.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddIns\LoopAddIn\LoopAddIn.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\LoopAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\LoopAddIn\obj\Debug\LoopAddIn.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\LoopAddIn\obj\Debug\LoopAddIn.pdb

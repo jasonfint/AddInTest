@@ -1,0 +1,75 @@
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\HostApplication.exe
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\HostApplication.pdb
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\Window1.baml
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\Window1.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\App.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\HostApplication_MarkupCompile.cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.g.resources
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.Properties.Resources.resources
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.exe
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.pdb
+C:\Users\sacha\Desktop\AddInTest\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.exe
+C:\Users\sacha\Desktop\AddInTest\Chapter26\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\HostApplication.exe
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\HostApplication.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\Window1.baml
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\Window1.g.cs
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\App.g.cs
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication_MarkupCompile.cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.g.resources
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.Properties.Resources.resources
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.Cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.exe
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.exe
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\Window1.baml
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\Window1.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\App.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication_MarkupCompile.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.g.resources
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.Properties.Resources.resources
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\HostApplication.exe
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\HostApplication.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.exe
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\HostApplication.exe
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\HostApplication.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\Window1.baml
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\Window1.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\App.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication_MarkupCompile.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.g.resources
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.Properties.Resources.resources
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\HostApplication.exe
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\HostApplication.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\HostApplication.exe
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\HostApplication.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\Window1.baml
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\Window1.g.cs
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\App.g.cs
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\HostApplication_MarkupCompile.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\HostApplication.g.resources
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\HostApplication.Properties.Resources.resources
+C:\Documents and Settings\liuchao\桌面\AddInTest\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.Cache
+D:\WPF学习\AddInTest\Output\HostApplication.exe
+D:\WPF学习\AddInTest\Output\HostApplication.pdb
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\HostApplication.csprojResolveAssemblyReference.cache
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\Window1.baml
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\Window1.g.cs
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\App.g.cs
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\HostApplication_MarkupCompile.cache
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\HostApplication.g.resources
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\HostApplication.Properties.Resources.resources
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.Cache
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\HostApplication.csproj.CoreCompileInputs.cache
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\HostApplication.exe
+D:\WPF学习\AddInTest\HostApplication\obj\Debug\HostApplication.pdb

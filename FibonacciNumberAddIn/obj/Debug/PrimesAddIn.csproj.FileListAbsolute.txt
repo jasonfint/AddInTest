@@ -1,0 +1,12 @@
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\NegativeImageAddIn\PrimesAddIn.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\NegativeImageAddIn\PrimesAddIn.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\NegativeImageAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\NegativeImageAddIn\obj\Debug\PrimesAddIn.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\NegativeImageAddIn\obj\Debug\PrimesAddIn.pdb
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimesAddIn.dll
+C:\Users\sacha\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimesAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimesAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimesAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\PrimesAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\PrimesAddIn\obj\Debug\PrimesAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\PrimesAddIn\obj\Debug\PrimesAddIn.pdb

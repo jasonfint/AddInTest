@@ -1,0 +1,5 @@
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\AddIns\NegativeImageAddIn\NegativeImageAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\Output\AddIns\NegativeImageAddIn\NegativeImageAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\NegativeImageAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\NegativeImageAddIn\obj\Debug\NegativeImageAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\Pro WPF\Chapter26\AddInWithAutomation\NegativeImageAddIn\obj\Debug\NegativeImageAddIn.pdb

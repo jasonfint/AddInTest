@@ -1,0 +1,15 @@
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimeNumberAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimeNumberAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\PrimeNumberAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\PrimeNumberAddIn\obj\Debug\PrimeNumberAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\PrimeNumberAddIn\obj\Debug\PrimeNumberAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimeNumberAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimeNumberAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\PrimeNumberAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\PrimeNumberAddIn\obj\Debug\PrimeNumberAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\PrimeNumberAddIn\obj\Debug\PrimeNumberAddIn.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimeNumberAddIn.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddIns\PrimeNumberAddIn\PrimeNumberAddIn.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\PrimeNumberAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\PrimeNumberAddIn\obj\Debug\PrimeNumberAddIn.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\PrimeNumberAddIn\obj\Debug\PrimeNumberAddIn.pdb

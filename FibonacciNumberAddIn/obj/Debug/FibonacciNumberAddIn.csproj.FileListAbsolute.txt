@@ -1,0 +1,15 @@
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\FibonacciAddIn\FibonacciAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\Output\AddIns\FibonacciAddIn\FibonacciAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\FibonacciNumberAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\FibonacciNumberAddIn\obj\Debug\FibonacciAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\AddInTest\FibonacciNumberAddIn\obj\Debug\FibonacciAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddIns\FibonacciAddIn\FibonacciAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\Output\AddIns\FibonacciAddIn\FibonacciAddIn.pdb
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\FibonacciNumberAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\FibonacciNumberAddIn\obj\Debug\FibonacciAddIn.dll
+C:\Documents and Settings\sacha.barber\Desktop\AddInTest\AddInTest\FibonacciNumberAddIn\obj\Debug\FibonacciAddIn.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddIns\FibonacciAddIn\FibonacciAddIn.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\Output\AddIns\FibonacciAddIn\FibonacciAddIn.pdb
+C:\Documents and Settings\liuchao\桌面\AddInTest\FibonacciNumberAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liuchao\桌面\AddInTest\FibonacciNumberAddIn\obj\Debug\FibonacciAddIn.dll
+C:\Documents and Settings\liuchao\桌面\AddInTest\FibonacciNumberAddIn\obj\Debug\FibonacciAddIn.pdb
