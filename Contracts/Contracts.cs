@@ -19,7 +19,14 @@ namespace Contract
         void Initialize(IHostObjectContract hostObj);
         #endregion
     }
-
+    //[AddInContract]
+    //public interface INumberProcessorContract : IContract
+    //{
+    //    #region Methods
+    //    List<int> ProcessNumbers(int fromNumber, int toNumber);
+    //    void Initialize(IHostObjectContract hostObj);
+    //    #endregion
+    //}
     /// <summary>
     /// The actual Host contract that is implemented by the
     /// <see cref="HostInSideAdapter.HostObjectViewToContractHostAdapter">Host Adapter</see>
